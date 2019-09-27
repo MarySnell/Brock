@@ -1,0 +1,13 @@
+body{
+  background-color:white;
+}
+
+#firstheader{
+  color:red;
+  font-weight:bold;
+}
+
+.greenText{
+  color:green;
+  font-style:italic;
+}
