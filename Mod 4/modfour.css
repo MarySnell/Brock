@@ -1,0 +1,27 @@
+body{
+  background-color: blue;
+  margin: 10px 10px 10px 10px;
+  padding-top: 51px;
+}
+.pinkText{
+  color: #F41C7B;
+  font-weight: 100;
+  font-size: 8px;
+}
+.blackSolid{
+  margin: 30px 6% 10px 10%;
+  border: black 3px solid;
+  padding: 15px 49% 2px 1%;
+}
+.greenDotted{
+  border: green 2px dotted;
+  margin: 0px -560px 8px 10px;
+  padding-left: 4px;
+}
+.yellowDotted{
+  border: #FFC300 2px dotted;
+  margin: 0px 10px -2px -12px;
+}
+.yellowDotted img {
+    width: 100%;
+  }
