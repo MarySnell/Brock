@@ -1,0 +1,59 @@
+body{
+	color:blue;
+	background-color:green;
+}
+
+
+#wrapper{
+	width: 666px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+#header{
+	height:50px;
+	text-align:center;
+	background-color: red;
+	color: black;
+
+}
+
+#leftnav{
+	float: left;
+	width: 202px;
+	height: 60px;
+	background-color: #FFB4C2;
+	color: black;
+	font-weight: bold;
+
+}
+
+#rightnav{
+	float: right;
+	width: 464px;
+	height: 60px;
+	background: #FF9745;
+	color: black;
+	font-weight: bold;
+
+}
+
+#leftbody{
+	float:left;
+	width:100%;
+	height: 494px;
+	background-color:blue;
+	color: black;
+	padding-right: 0px;
+	font-weight: bold;
+}
+
+#bottom{
+	text-align:left;
+	height:50px;
+	clear:both;
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+}
+Save
