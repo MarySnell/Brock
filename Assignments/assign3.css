@@ -1,0 +1,200 @@
+body{
+	color:white;
+	background-color:white
+}
+
+
+#wrapper{
+	width:750px;
+	margin:0 auto;
+	background-color:white;
+}
+
+#header{
+	height: 84px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #468FC8;
+
+}
+
+#leftbody{
+	float: left;
+	width: 190px;
+	height: 500px;
+	padding: 5px;
+	background-color: #FF8865;
+
+}
+#rightbody{
+	float: right;
+	width: 540px;
+	height: 500px;
+	background: #FFE552;
+	padding: 5px;
+}
+
+#footer{
+	text-align: center;
+	height: 50px;
+	position: fixed;
+	color: black;
+	clear: both;
+
+}
+
+.blacksolid{
+	border: black 2px solid;
+	margin: -44px 618px -75px 4px;
+}
+
+.img-superman{
+	width: 80px
+}
+
+.menu{
+	color: black;
+	text-align: left;
+	margin-left: 141px;
+	margin-top: 63px;
+
+}
+
+.music{
+	color: black;
+	margin-right: 329px;
+	margin-top: -33px;
+
+}
+
+.oktober{
+	color: black;
+	margin-right: 194px;
+	margin-top: -34px;
+}
+
+.reservation{
+	color: black;
+	margin-right: 13px;
+	margin-top: -34px;
+}
+
+.redBox{
+	border: red 2px solid;
+	background-color: red;
+	width: 97%;
+	height: 83px;
+	color: black;
+	position: relative;
+	z-index: 1;
+	margin: 9px 1px 1px 7px;
+
+}
+
+.redBox2{
+	border: red 2px solid;
+	background-color: red;
+	height: 152px;
+	color: black;
+	z-index: 1;
+	margin: 168px 0px 1px -371px;
+
+}
+
+.squarephoto{
+	border: purple 2px solid;
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	margin: 10px 1px 1px 8px;
+
+}
+
+.squarephoto2{
+	border: purple 2px solid;
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	margin: -2px 1px 1px 183px;
+}
+
+.squarephoto3{
+	border: purple 2px solid;
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	margin: -3px 1px 1px 184px;
+}
+
+.searchBar{
+	border: black 2px solid;
+	width: 184px;
+	height: 20px;
+	color: black;
+}
+
+.nphoto1{
+	border: purple 2px solid;
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	margin-left: 16px;
+
+}
+
+.nphoto2{
+border: purple 2px solid;
+background-color: purple;
+height: 150px;
+width: 150px;
+margin-left: 16px;
+margin-top: 50px;
+}
+
+.social1{
+border: green 2px solid;
+background-color: green;
+height: 20px;
+width: 20px;
+position: fixed;
+margin: 16px 0px 0px 220px;
+
+}
+
+.social2{
+border: green 2px solid;
+background-color: green;
+height: 20px;
+width: 20px;
+position: fixed;
+margin: 16px 0px 0px 266px;
+
+}
+.social3{
+border: green 2px solid;
+background-color: green;
+height: 20px;
+width: 20px;
+position: fixed;
+margin: 16px 0px 0px 312px;
+
+}
+
+.emailBar{
+border: black 2px solid;
+text-align: left;
+width: 184px;
+height: 20px;
+color: black;
+
+}
+
+.about{
+border: black 2px solid;
+text-align: left;
+width: 100px;
+height: 20px;
+color: black;
+margin-top: -40px;
+margin-left: -184px;
+}
