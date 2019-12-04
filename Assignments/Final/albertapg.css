@@ -103,7 +103,7 @@ p {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  z-index: 500;
+  z-index: 300;
 
 }
 
@@ -164,7 +164,7 @@ div.gallery {
   margin: 50px;
   border: 1px solid #white;
   float: left;
-  width: 800px;
+  width: 1300px;
 
 }
 
